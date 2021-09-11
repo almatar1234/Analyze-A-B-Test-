@@ -6,6 +6,6 @@ For this project, I will be working to understand the results of an A/B test run
 
 ## Project Requirements
 To run this project, we need to have the following:
-1- Jupter Notebook
-2- ab_data.csv
-3- countries.csv
+* Jupter Notebook
+* ab_data.csv
+* countries.csv
